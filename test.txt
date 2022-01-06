@@ -1,3 +1,5 @@
+
+new additions
 adding new text
 new changes in file
 new test file
